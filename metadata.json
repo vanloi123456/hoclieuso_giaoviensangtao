@@ -1,0 +1,6 @@
+{
+  "name": "Học Liệu Số – Giáo Viên Sáng Tạo",
+  "description": "Không gian học liệu số tương tác hiện đại dành cho giáo viên và học sinh tiểu học với kho hình ảnh, rạp chiếu video, trò chơi tương tác và học liệu số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
